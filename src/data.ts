@@ -139,4 +139,39 @@ export const data = [
         url:"/gallery",
         Submenu:false
     },
+    {
+        page:"Internship",
+        url:"/internship",
+        Submenu:false
+    },
+    {
+        page:"Jobs",
+        url:"/jobs",
+        Submenu:false
+    },
+    {
+        page:"Franchise",
+        url:"/franchise",
+        Submenu:false
+    },
+    {
+        page:"Workshops",
+        url:"/workshops",
+        Submenu:false
+    },
+    {
+        page:"Seminars",
+        url:"/seminars",
+        Submenu:false
+    },
+    {
+        page:"NGO",
+        url:"/NGO",
+        Submenu:false
+    },
+    {
+        page:"S3",
+        url:"/S3",
+        Submenu:false
+    },
 ]
