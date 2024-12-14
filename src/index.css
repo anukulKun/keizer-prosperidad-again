@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.buttonAnimation:hover{
+    color: #fff;
+    background-color: #f20046;
+    transition: all 0.5s ease;
+}
+
+.buttonAnimation{
+    border: 1px solid #f20046;
+    background-color: #ffe4e4;
+    color: #f20046;
+}
+
+.iconRotation{
+
+}
+
+.sideBarAnimation{
+    transition: all 0.8s ease;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #fff;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #8f0024;
+    border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #b8002e;
+}
+
