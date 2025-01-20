@@ -38,7 +38,7 @@ const Footer: React.FC = () => {
       </ul>
       <div className="mt-8 items-center justify-between sm:flex">
         <div className="mt-4 sm:mt-0">
-          Copyright &copy; 2024 Surendra Samriddhi's Square
+          Copyright &copy; 2025 Surendra Samriddhi's Square
         </div>
         <div className="mt-6 sm:mt-0">
           <ul className="flex items-center space-x-4">
