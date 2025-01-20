@@ -71,7 +71,7 @@ const Footer: React.FC = () => {
               </Link>
             </li>
             <li className="w-10 h-10 border rounded-full flex items-center justify-center">
-              <Link to="https://www.instagram.com/samriddhi_s3/profilecard/?igsh=eHV3amI1N3F5MTFo">
+              <Link to="https://www.instagram.com/s3_official__?utm_source=qr&igsh=eHV3amI1N3F5MTFo">
                 <svg
                   className="w-6 h-6 text-pink-500 duration-150"
                   fill="currentColor"
